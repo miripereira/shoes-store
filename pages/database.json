@@ -1,0 +1,62 @@
+[
+    {
+        "marca": "Adidas",
+        "modelo": "Galaxy 6 Negro/Blanco",
+        "precio": 26.999,
+        "imagen": "https://www.digitalsport.com.ar/files/products/63c010f6e29eb-574328-500x500.jpg"
+    },
+    {
+        "marca": "Topper",
+        "modelo": "Akron Azul/Beige",
+        "precio": 18.738,
+        "imagen": "https://sportotalar.vtexassets.com/arquivos/ids/407864-1200-auto?v=638102639605330000&width=1200&height=auto&aspect=true"
+    },
+    {
+        "marca": "Reebok",
+        "modelo": "Nanoflex Tr Negra",
+        "precio": 30.999,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-entrenamiento-reebok-nanoflex-tr-mujer-negra-111010fx7940001-1_1.jpg"
+    },
+    {
+        "marca": "Converse All Star",
+        "modelo": "Chuck Taylor Azul",
+        "precio": 30.799,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/2/0/200010166635001-1.jpg"
+    },
+    {
+        "marca": "New Balance",
+        "modelo": "DHR Bordo",
+        "precio": 39.999,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-new-balance-574-dhr-bordo-500010195280435-1.jpg"
+    },
+    {
+        "marca": "Vans",
+        "modelo": "Atwood Azul",
+        "precio": 23.199,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/2/1/211010kc44k1001-1.jpg"
+    },
+    {
+        "marca": "Under Armour",
+        "modelo": "Charged Engage Negra",
+        "precio": 32.499,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatilla-training-under-armour-charged-engage-negra-700013022616001-1.jpg"
+    },
+    {
+        "marca": "Nike",
+        "modelo": "Air Max Systm Gris",
+        "precio": 46.999,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-nike-air-max-systm-gris-510010dm9537002-1.jpg"
+    },
+    {
+        "marca": "Adidas",
+        "modelo": "Tensaur Run 2.0 ",
+        "precio": 22.999,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-adidas-tensaur-run-2-0-ni-o-ni-a-azul-100010gw0396001-1.jpg"
+    },
+    {
+        "marca": "JohnFoos",
+        "modelo": "All Night Blanca",
+        "precio": 23.709,
+        "imagen": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-john-foos-all-night-blanca-305011821166001-1.jpg"
+    }
+]

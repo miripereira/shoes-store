@@ -1,0 +1,242 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 90vw;
+    margin: 0 auto;
+    margin-top: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    border: 1px solid orange;
+}
+
+h2 {
+    padding: 15px 0 15px 15px;
+    background-color: white;
+    border-radius: 5px 5px 0 0;
+    font-size: 25px;
+    animation: title 5s ;
+}
+@keyframes title {
+    0%{
+        font-size: 25px;
+        transform: translateX(120px);
+    }
+    25%{
+        font-size: 28px;
+
+    }
+    50%{
+        font-size: 25px;
+
+    }
+    100%{
+        font-size: 25px;
+
+    }
+}
+
+nav {
+    height: 70px; 
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap; 
+    border-radius: 0 0 5px 5px;  
+}
+
+nav a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+	color: black;	
+    font-size: 24px;
+    text-decoration: underline;
+    
+}
+
+#hero {
+    width: 90vw;
+    height: 70vh;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: 1px solid orange;
+    display: flex;
+}
+
+#presentacion {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+h1, #presentacion p {
+    padding-left: 30px;
+}
+
+#fotoPresentacion{
+    width: 60%;
+}
+
+#fotoPresentacion img {
+    width: 100%;
+    height: 100%;
+}
+
+#quienesSomos {
+    border: 1px solid orange;
+    width: 90vw;
+    height: 100vh;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+}
+
+#fotoQuienesSomos {
+    width: 60%;      
+}
+
+#fotoQuienesSomos img{
+    width: 100%;
+    height: 100%;
+}
+
+#presentacionTienda {  
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#presentacionTienda p {
+    margin: 0 20px;
+}
+
+.productos {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-color: orange;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.productos h2{
+    background-color: orange;
+    color: darkslategray;
+    font-size: 30px;
+    letter-spacing: 10px;
+    word-spacing: 25px;
+}
+
+#contenedor {
+    height: 80%;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjeta {
+    width: 175px;
+    height: 175px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.tarjeta h3 {
+    color: darkslategray;
+}
+
+.modelo {
+    color: lightseagreen;
+}
+
+.precio {
+    color: darkcyan;
+    font-weight: bold;
+}
+
+.formulario{
+
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgba(255, 166, 0, 0.911), rgb(255, 230, 0));
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+}
+.formulario div{
+    padding: 1rem;
+
+}
+
+
+.formulario div label, .formulario div input{
+    font-size: 20px;
+    width: 100%;
+
+}
+.formulario div button{
+    width: 100%;
+    font-size: 20px;
+    padding: 8px;
+    color: black;
+    cursor: pointer;
+}
+.formulario div button:hover{
+    background-image: linear-gradient(to right, gray, white, gray);
+    font-size: 22px;
+    border-radius: 50%;
+}
+.shoes-video{
+display: flex;
+
+border: 1px solid orange;
+margin: 0 20px;
+
+
+
+
+
+}
+.shoes-video p{
+    font-size: 19px;
+    width: 50%;
+    letter-spacing: 5px;
+
+}
+
+
+.pie{
+    display: flex;
+
+}
+.redes{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+.redes a:hover{
+    background-image: linear-gradient(to bottom, rgba(255, 166, 0, 0.911), rgb(255, 230, 0));
+    border-radius: 100%;
+    padding: 5px;
+}
